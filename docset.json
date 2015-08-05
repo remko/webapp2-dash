@@ -1,0 +1,11 @@
+{
+    "name": "WebApp2",
+    "version": "{version}",
+    "archive": "WebApp2.tgz",
+    "author": {
+        "name": "Remko Tronçon",
+        "link": "https://el-tramo.be"
+    },
+    "aliases": [],
+    "specific_versions": []
+}

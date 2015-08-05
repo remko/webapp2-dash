@@ -1,0 +1,5 @@
+*.docset
+*.zip
+/dist
+/html
+/webapp2-*
