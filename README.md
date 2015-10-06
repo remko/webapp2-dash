@@ -1,4 +1,4 @@
-# [webob-dash: WebApp2 Dash Docset](https://el-tramo.be/webapp2-dash)
+# [webapp2-dash: WebApp2 Dash Docset](https://el-tramo.be/webapp2-dash)
 
 Generates a [Dash](http://kapeli.com/dash) docset for [WebApp2](http://webapp-improved.appspot.com).
 
